@@ -1,0 +1,172 @@
+Aavegotchi Aastronauts: 3.50%
+Holders: 55.214285714285715
+Liquidity: 1243725.3465766527
+Market Cap: 1590955.5215312322
+Floor Price: 1.91
+Volume: 14258.090567446021
+
+WAIFU NFT Collection: 0.29%
+Holders: 20.357142857142858
+Liquidity: 74641.2597878004
+Market Cap: 243452.4748065088
+Floor Price: 0.12
+Volume: 1900.4502788393186
+
+Unicly Genesis Collection: 0.35%
+Holders: 101.07142857142857
+Liquidity: 63166.96769147121
+Market Cap: 111067.25097131402
+Floor Price: 0.04
+Volume: 1139.0441525596882
+
+The Day by ARC: 0.08%
+Holders: 3
+Liquidity: 14920.97948908348
+Market Cap: 79814.79252421879
+Floor Price: 0.04
+Volume: 1018.438256187979
+
+Hashmask: 6.40%
+Holders: 44.214285714285715
+Liquidity: 1684075.804546104
+Market Cap: 4537950.444625766
+Floor Price: 6.14
+Volume: 8162.670859607485
+
+CM Collection: 0.62%
+Holders: 12.142857142857142
+Liquidity: 226742.335322194
+Market Cap: 321214.1284146272
+Floor Price: 0.3
+Volume: 2255.229948361232
+
+MoonCats: 3.33%
+Holders: 11
+Liquidity: 504459.9715349806
+Market Cap: 1684230.9180213423
+Floor Price: 4.86
+Volume: 2992.0450091617863
+
+Mystic Axies: 6.77%
+Holders: 68.14285714285714
+Liquidity: 1393673.944369758
+Market Cap: 4839064.253246873
+Floor Price: 7.56
+Volume: 12699.277298893345
+
+Ahegao DAO: 0.42%
+Holders: 149.28571428571428
+Liquidity: 31623.78995892207
+Market Cap: 114496.54371164835
+Floor Price: 0.13
+Volume: 960.5077913407171
+
+Formula REVV: 0.36%
+Holders: 3
+Liquidity: 88130.64761203784
+Market Cap: 344320.09070924437
+Floor Price: 0.11
+Volume: 4849.394649953309
+
+Doki Doki Official Collection: 0.82%
+Holders: 88.07142857142857
+Liquidity: 145455.0803040879
+Market Cap: 317736.2580987612
+Floor Price: 0.5
+Volume: 6884.708065015033
+
+Polychain Monsters: 0.87%
+Holders: 11
+Liquidity: 166694.97135088308
+Market Cap: 659143.5741186661
+Floor Price: 0.53
+Volume: 10457.852787556942
+
+The Doge Pound: 0.47%
+Holders: 7
+Liquidity: 88216.77672448878
+Market Cap: 450651
+Floor Price: 0.32
+Volume: 4300.319623597606
+
+CryptoPunks: 20.38%
+Holders: 215.28571428571428
+Liquidity: 2756938.8604183346
+Market Cap: 21029571.141525153
+Floor Price: 23.6
+Volume: 75338.34787685816
+
+Loot - Divine Robes: 0.30%
+Holders: 9
+Liquidity: 0
+Market Cap: 655998.33
+Floor Price: 0.4
+Volume: 0
+
+The PAK Collection: 1.10%
+Holders: 8
+Liquidity: 288761.9454187314
+Market Cap: 803320.8122285315
+Floor Price: 0.5
+Volume: 12234.302663562741
+
+Jenny Metaverse DAO Token: 23.35%
+Holders: 570.0714285714286
+Liquidity: 7290385.346743433
+Market Cap: 19005191.562581725
+Floor Price: 12.53
+Volume: 94679.96831661157
+
+Air Jordan 1st Drop Collection: 0.28%
+Holders: 18
+Liquidity: 72793.44585828632
+Market Cap: 555901.9713558925
+Floor Price: 0.01
+Volume: 1877.4188594097047
+
+Gone Studio: 0.12%
+Holders: 3
+Liquidity: 25490.728772532842
+Market Cap: 93169.00296898678
+Floor Price: 0
+Volume: 2374.402599759675
+
+The Beeple Collection: 0.65%
+Holders: 32.285714285714285
+Liquidity: 174256.3141428335
+Market Cap: 117824.05380745194
+Floor Price: 0.46
+Volume: 3974.2589670634397
+
+The Fewocious Collection: 5.04%
+Holders: 48.785714285714285
+Liquidity: 929240.5775924136
+Market Cap: 3605411.888463182
+Floor Price: 6.03
+Volume: 8975.105547798503
+
+Genesis MoonCats: 11.37%
+Holders: 134.07142857142858
+Liquidity: 1156037.800216231
+Market Cap: 3379357.9308000733
+Floor Price: 16.58
+Volume: 56625.48897352514
+
+Autoglyph: 5.88%
+Holders: 10.142857142857142
+Liquidity: 529930.577602266
+Market Cap: 4164301.751404508
+Floor Price: 9.19
+Volume: 10669.002974600202
+
+ArtBlocks: 7.24%
+Holders: 18.214285714285715
+Liquidity: 673425.841487062
+Market Cap: 1952960.2480245864
+Floor Price: 8.24
+Volume: 92089.57768856679
+
+UNIC-ETH: 40.00%
+xUNIC: 40.00%
+Ecosystem Faucet: 20.00%
+Total Percentage: 199.98%
